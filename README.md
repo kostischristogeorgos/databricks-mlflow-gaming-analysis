@@ -15,4 +15,4 @@
 
 ---
 
-**More information about detailed insights is stored in the notebook's markdown. **
+**More information about detailed insights is stored in the notebook's markdown.**
